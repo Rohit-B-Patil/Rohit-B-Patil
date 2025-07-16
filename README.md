@@ -1,20 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Rohit B Patil</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | UI Builder</h3>
+<h3 align="center">React Developer | JavaScript Enthusiast | Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Book Management App using Context API**
 - 🌱 I’m learning **Advanced React, Custom Hooks, and Clean Component Architecture**
 - 💬 Ask me about **React, JavaScript, or anything Frontend**
 - 📫 Reach me at: **er.rohitbpatil@gmail.com**
 - ⚡ Fun fact: I love turning coffee ☕ into clean and reusable components.
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,axios,git,github" />
-</p>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilrohit609@gmail.com) 
@@ -26,7 +18,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohit-B-Patil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-B-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohit-B-Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
