@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Rohit B Patil</h1>
 <h3 align="center">React Developer | JavaScript Enthusiast | Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Book Management App using Context API**
-- 🌱 I’m learning **Advanced React, Custom Hooks, and Clean Component Architecture**
-- 💬 Ask me about **React, JavaScript, or anything Frontend**
-- 📫 Reach me at: **er.rohitbpatil@gmail.com**
-- ⚡ Fun fact: I love turning coffee ☕ into clean and reusable components.
+🔭 Exploring advanced React patterns and frontend architectures  
+💼 Gaining hands-on experience with Advanced React, Custom Hooks, and Clean Component Architecture  
+💬 Ask me about **React**, **JavaScript**, or anything **Frontend**  
+📫 Reach me at: **er.rohitbpatil@gmail.com**  
+⚡ Fun fact: I love turning coffee ☕ into clean and reusable components
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilrohit609@gmail.com) 
